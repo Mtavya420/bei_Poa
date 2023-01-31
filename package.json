@@ -1,0 +1,19 @@
+{
+  "name": "bei-poa",
+  "version": "1.0.0",
+  "description": "Used Phones",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Dullah",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
